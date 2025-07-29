@@ -2,7 +2,7 @@ Implementation of thread safe code in C that allows to share a ressource (global
 ## Features
 - Mutli-threading
 - Mutex
-- Condition Variable
+- Conditional Variable
 ## Requirements
 ### Software
 - CodeBlocks or compatible toolchain
