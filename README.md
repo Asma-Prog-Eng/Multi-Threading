@@ -16,6 +16,10 @@ File → Import... → Existing Projects into Workspace
 
 3. Rebuild project dependenciesFile 
 
+## Usage : Output Sample
+
+<img width="879" height="630" alt="Thread" src="https://github.com/user-attachments/assets/23f73576-b287-46f3-b6fb-4d6104578d0d" />
+
 ## Project Structure
 
 ├── Src<br /> →  main.c
